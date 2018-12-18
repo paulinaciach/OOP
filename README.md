@@ -2,7 +2,7 @@
 Object programming, Classes,  Methods,  Constructors, Inheritance.
 
 
-#Sekcja 1
-#Sekcja 2
-#Sekcja 3
-#Sekcja 4
+#Sekcja 1<br>
+#Sekcja 2<br>
+#Sekcja 3<br>
+#Sekcja 4<br>
