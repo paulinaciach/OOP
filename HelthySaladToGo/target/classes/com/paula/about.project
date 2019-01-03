@@ -1,0 +1,40 @@
+
+
+	// The purpose of the application is to help a fictitious company called HealthySaladToGo to manage
+        // their process of selling salads.
+        // Our application will help bar Owner to select types of salads, some of the additional items (additions) to
+        // be added to the salads and pricing.
+        // We want to create a base salad, but also two other types of salads that are popular ones in HealthySaladToGo store.
+        // The basic salad should have the following items.
+        // Quinoa, cashews nuts, basil derssing and up to 4 additional additions (things like spinach, tomato, feta, etc) that
+        // the customer can select to be added to the salad.
+        // Each one of these items gets charged an additional price so you need some way to track how many items got added
+        // and to calculate the final price (base salad with all the additions).
+        // This salad has a base price and the additions are all separately priced (up to 4 additions, see above).
+        // Create a Salad class to deal with all the above.
+        // The constructor should only include the quinoa type, cashews nuts, basil derssing  and price,
+        // can also include name of salad or you can use a setter.
+        
+        // Also create two extra varieties of Salad (subclasses) to cater for 
+        // a) Rice Salad (on a brown rice), plus two addition items that can be added.
+        // The green can have 6 items (Additions) in total.
+        // hint:  you probably want to process the two additional items in this new class (subclass of Salad),
+        // not the base class (Salad), since the two additions are only appropriate for this new class
+        // (in other words new burger type).
+        
+        
+        // b) Deluxe Green salad - comes with chips and drinks as additions, but no extra additions are allowed.
+        // hint:  You have to find a way to automatically add these new additions at the time the deluxe burger
+        // object is created, and then prevent other additions being made.
+        
+        
+        //  All 3 classes should have a method that can be called anytime to show the base price of the sald
+        // plus all additionals, each showing the addition name, and addition price, and a grand/final total for the
+        // salad (base price + all additions)
+        // For the two additional classes this may require you to be looking at the base class for pricing and then
+        // adding totals to final price.
+        
+        
+        
+        
+        
